@@ -23,6 +23,8 @@ Keyboard keys:
 
 **Enter** - Calls the wave of enemies
 
+**Space** - Pause game
+
 *To either buy or delete items you need to have money*
 
 
