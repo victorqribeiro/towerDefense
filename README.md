@@ -10,6 +10,7 @@ A tower defense game written in vanilla JavaScript.
 
 Mouse / Left click - Select objects and place towers.
 
+Keyboard keys:  
 **1** - Single Cannon Tower
 
 **2** - Double Cannon Tower
@@ -20,9 +21,9 @@ Mouse / Left click - Select objects and place towers.
 
 **D** - Deletes a selected item
 
-*To either buy or delete items you need to have money*
-
 **Enter** - Calls the wave of enemies
+
+*To either buy or delete items you need to have money*
 
 
 ## ToDo
