@@ -1,6 +1,6 @@
 # Tower Defense
 
-A tower defense game written in vanilla JavaScript.
+A (unfinished) tower defense game written in vanilla JavaScript.
 
 ![screenshot](screenshot.png)
 
