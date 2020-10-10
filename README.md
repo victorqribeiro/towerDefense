@@ -28,6 +28,10 @@ Keyboard keys:
 
 ## ToDo
 
+* Finish the game
+  * Right now this is more a prototype than a game, since it doesn't end.
+  * Implement victory
+  * Implement defeat
 * Refactor code
   * Remove some redundancies (Almost every class has a distance function)
   * Create utils.js and move helper functions to it (including a general distance function)
