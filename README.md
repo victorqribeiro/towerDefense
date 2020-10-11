@@ -4,7 +4,7 @@ A (unfinished) tower defense game written in vanilla JavaScript.
 
 ![screenshot](screenshot.png)
 
-[Live version](https://victorribeiro.com/tileEditor)
+[Live version](https://victorribeiro.com/towerDefense/)
 
 Safari (iOs) users may need to disable [Prevent cross-site tracking](https://support.apple.com/guide/safari/prevent-cross-site-tracking-sfri40732/mac) to view canvas applications, such as this game.
 
