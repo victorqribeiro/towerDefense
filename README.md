@@ -79,6 +79,6 @@ to generate a new map (saves a *map.json* file in the parent folder)
 
 ## Credits
 
-Textures by Kenney - [www.kenney.nl](www.kenney.nl)
+Textures by Kenney - [www.kenney.nl](https://www.kenney.nl)
 
 Sounds from everywhere - I'll keep better track of where I got the sound and music next time, sorry
